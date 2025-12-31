@@ -1,0 +1,8 @@
+streamlit==1.32.0
+pandas==2.2.1
+networkx==3.2.1
+pydantic==2.6.4
+gitpython==3.1.42
+openai==1.14.2
+anthropic==0.19.1
+st-flow==0.1.0
